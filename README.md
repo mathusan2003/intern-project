@@ -20,9 +20,6 @@ A production-grade, fully interactive Timeline/Gantt View component built with R
 ![Dependencies](./screensho/Screenshot%202025-10-28%20000431.png)
 *Visual dependency lines connecting related tasks*
 
-## 🚀 Live Demo
-
-**Storybook:** [Add your deployed URL here](#)
 
 ##  Installation
 
