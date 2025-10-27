@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply border-neutral-200;
+  }
+
+  body {
+    @apply bg-neutral-50 text-neutral-900 antialiased;
+  }
+
+  button, [role="button"] {
+    @apply outline-none;
+  }
+
+  button:focus-visible, [role="button"]:focus-visible {
+    @apply ring-2 ring-primary-500 ring-offset-2;
+  }
+}
+
